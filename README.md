@@ -6,11 +6,11 @@ users to store, manage, and refer to their favorite recipes.</p>
 ## Run Locally
 Clone the project
 ```bash
-https://github.com/Luyanda078/Employee-App
+https://github.com/Luyanda078/Online_Recipe
 ```
 Go to the project directory
 ```bash
-  cd employee-app
+  cd onlinerecipe
 ```
 Install dependencies
 ```bash
