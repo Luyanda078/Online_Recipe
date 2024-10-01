@@ -1,0 +1,24 @@
+<img src="https://socialify.git.ci/Luyanda078/Online_Recipe/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Online_Recipe" width="640" height="320" />
+<h1>Online Recipe App</h1>
+<p>allows
+users to store, manage, and refer to their favorite recipes.</p>
+
+## Run Locally
+Clone the project
+```bash
+https://github.com/Luyanda078/Employee-App
+```
+Go to the project directory
+```bash
+  cd employee-app
+```
+Install dependencies
+```bash
+  npm install
+```
+Start the react server
+```bash
+  npm run dev
+```
+## Tech Stack
+**Client:** React JS, HTML5, JavaScript, CSS3
